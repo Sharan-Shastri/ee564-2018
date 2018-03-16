@@ -1,2 +1,4 @@
-# ee564-2018
-http://keysan.me/ee564 For the 2017-2018 Semester
+# EE564 Projects
+## 2017-2018 Spring Semester
+
+For details visit http://keysan.me/ee564
