@@ -4,6 +4,10 @@
 
 ## Deadline 28/03 23:59
 
+## Grading and Procedure
+
+See the [Evaluation](./evaluation.md) sheet for details.
+
 ## Q1) Inductor Design
 
 In this assignment you are required to design and analyze an inductor wrapped around a toroidal core. You are free to choose any type of material, but at least find a decent [manufacturer](https://www.mag-inc.com/Products/Ferrite-Cores/Ferrite-Toroids), so you have a detailed data-sheet of the toroid core.
