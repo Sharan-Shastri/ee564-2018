@@ -30,15 +30,15 @@ For the lamination you had chosen, depending on the number of stator slots and r
 - Winding connection (delta-wye)
 - Aimed voltage and current ratings
 
-For the winding you selected please plot the MMF waveform for two different instants for a balanced three-phase current (i.e. Ia=1 A, Ib=-0.5 A, Ic=-0.5A).
+For the winding you selected please plot the MMF waveform for two different instants for a balanced three-phase current (i.e. Ia=1 A, Ib=-0.5 A, Ic=-0.5A) ignoring rotor slots for this stage.
 
 ## Q2) Motor Parameter Estimation
 
-Choose an axial length for the lamination. There is not a definite answer, but please try to choose reasonable numbers. Then determine the following:
+Choose an axial length for the lamination. Also choose an airgap clearance value (reduce the rotor diameter appropriately).  There is not a definite answer, but please try to choose reasonable numbers. Then determine the following:
 
-- Determine/calculate the specific magnetic loading
-- Determine/calculate the specific electric loading (in the last step you will be required to verify these)
-- Calculate the approximate torque and speed of your design
+- Choose (calculate) the specific magnetic loading and also the flux densities in stator teeth, stator back core.
+- Determine (calculate) the specific electric loading (in the last step you will be required to verify these)
+- Calculate the approximate torque and speed of your design based on your assumptions
 - Calculate the equivalent circuit parameters for your design (i.e. phase resistance, phase inductance, leakage inductance etc.)
 - Calculate the approximate core and copper losses at the rated operating conditions.
 
