@@ -27,7 +27,7 @@ The motor you need to design is a traction asynchronous squirrel cage induction 
 - Maximum Speed: 140 km/h
 - Gear Ratio: 4.82
 
-You can find some reference designs from the [Github repo](https://github.com/odtu/ee564/tree/master/TRAIN).
+You can find some reference analytical designs from the [Github repo](https://github.com/odtu/ee564/tree/master/TRAIN). Although you are free to use this as a reference, do not copy anything. Reports and source code will be checked by Turnitin
 
 ## B- Wind Turbine Generator Design
 
@@ -43,6 +43,9 @@ You are required to design a squirrel cage induction generator for the Northel E
 - Rated Speed: 758 rpm
 - Gearbox: (Coupled from wind turbine blade)
 - Insulation Class: F
+
+You can find some reference analytical designs from the [Github repo](https://github.com/odtu/ee564/tree/master/WIND). Although you are free to use this as a reference, do not copy anything. Reports and source code will be checked by Turnitin
+
 
 ## C-Alternate Design for your 2nd Project
 
